@@ -6,7 +6,7 @@ document. nmap-parser is hear to save the day. To create a nmap output file that
 
 ## Installing
 
-To install, please download the latest release from the releases page (https://github.com/ofgrenudo/noparser/releases/)[https://github.com/ofgrenudo/noparser/releases/] and extract it to a folder on your desktop. You can either run it from the terminal there, or add it to your system path and run it from anywhere on your device.
+To install, please download the latest release from the releases page [https://github.com/ofgrenudo/noparser/releases/](https://github.com/ofgrenudo/noparser/releases/) and extract it to a folder on your desktop. You can either run it from the terminal there, or add it to your system path and run it from anywhere on your device.
 
 ### Example Command Usage
 
