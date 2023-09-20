@@ -20,3 +20,7 @@ options:
 
   -d, --debug           Debugging Mode
 ```
+
+## Building
+
+`pyinstaller noparser.py`
